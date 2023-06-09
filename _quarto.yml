@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: "docs/"
+
+website:
+  title: "Blog do Arthur Boari"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      dark: journal
+      light: cosmo
+    css: styles.css
+lang: pt-br
+editor: visual
+
