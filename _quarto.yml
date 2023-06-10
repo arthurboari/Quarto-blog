@@ -8,9 +8,13 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/arthurboari
+      - text: "{{< fa brands researchgate >}}"
+        href: https://www.researchgate.net/profile/Arthur-Boari
+      - text: "{{< fa brands kaggle >}}"
+        href: https://www.kaggle.com/arthurboari
+      - icon: linkedin
+        href: https://www.linkedin.com/in/arthurboari/
 format:
   html:
     theme:
