@@ -1,0 +1,28 @@
+---
+title: "Programação & Eu"
+author: "Arthur Boari"
+date: "2023-06-11"
+date-modified: last-modified
+language: 
+  title-block-author-single: "Autoria"
+categories: [Experiência, Programação em R]
+image: "Linguagem_R-768x410.jpg"
+---
+
+Olá, é bom ter você por aqui! Espero que este post te encontre bem 😉
+
+Não acho mais que justo começar a contar para você como eu cheguei aqui. Então, senta que lá vem história\...
+
+[![](senta-que.gif)](https://tenor.com/pt-BR/view/senta-que-la-vem-historia-gif-10058527)
+
+O meu primeiro contato com programação aconteceu em 2015/1 (*era meu segundo período da graduação*) através da disciplina GCC250 - Fundamentos de Programação I (na época levava o nome de Algoritmos e Estruturas de Dados I --- AED I) --- na grade curricular (2013/2) de Engenharia Ambiental e Sanitária da UFLA. Aqui os dois professores -- um para a porção teórica e outro para a porção prática -- designados ensinaram a programar em C++. Inclusive foram solicitadas atividades que **eu** julgo um pouco avançadas para um curso de graduação cuja programação não seja *tão* relevante. A atividade final envolvia a submissão de um jogo-da-velha com vários requintes: coleta de nome e gravação de resultados anteriores. Esse foi o primeiro contato que tive com programação, mas não foi aqui que me envolvi de vez.
+
+Aqui é necessário pular alguns anos até chegar em 2019. Já tinha passado por boa parte das disciplinas profissionalizantes, já tinha desenvolvido pesquisa na área de tratamento de água e esgoto (aliás, a UFLA possui as suas próprias [estações de tratamento no *campus* sede](https://dqma.ufla.br/tratamento-de-agua-e-esgoto)!) por alguns anos, e estava sentindo que era hora de mudar de área. Logo no início daquele ano procurei a Profa. Dra. Sílvia Yanagi para desenvolver o meu Trabalho de Conclusão de Curso (TCC) na área das ciências atmosféricas (acabei estudando evapotranspiração no semiárido mineiro), e para auxiliar nessa mudança acabei me inscrevendo no segundo processo seletivo do [NEP UAI (Núcleo de Estudos em Poluição Urbana e Agroindustrial)](https://sites.google.com/ufla.br/nepuai) --- coordenado pelo Prof. Dr. Marcelo Vieira-Filho.
+
+Ainda como *trainee*, passei por um curso de introdução à programação em R --- ministrado por membros do núcleo, como a Jaqueline Natiele e o Lucas Almeida (os quais serei eternamente grato pela amizade e conhecimento compartilhado). Foi uma longa semana de cursos na parte da noite em Junho daquele ano. E agora, com uma maior maturidade, pude encontrar interesse no estudo da programação. A aplicação do meu conhecimento foi fortalecida na disciplina GRS124 -- Modelagem de Processos Ambientais ofertada no período letivo consecutivo (2019/2).
+
+Em 2020, com o início da pandemia da COVID-19 e a súbita suspensão das aulas presenciais, não sobrou outra alternativa a não ser desenvolver o TCC e as atividades do NEP UAI através dos recursos *online*. Exatamente nesse momento apareceu a [Datacamp](https://www.datacamp.com/)--- uma escola de programação *online* e paga --- cuja licença foi adquirida pelo Prof. Dr. Marcelo Vieira-Filho. Através do seu incentivo comecei a realizar alguns cursos e aperfeiçoar o meu conhecimento, e tenho mantido esse hábito até hoje.
+
+------------------------------------------------------------------------
+
+Créditos a imagem do post: [Didática Tech](https://didatica.tech/a-linguagem-r/) (acesso em 10/06/2023).

@@ -18,8 +18,8 @@ website:
 format:
   html:
     theme:
-      dark: journal
-      light: cosmo
+      dark: minty
+      light: journal
     css: styles.css
 lang: pt-br
 editor: visual

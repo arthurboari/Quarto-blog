@@ -10,5 +10,14 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "fd31c6bc"
+  },
+  "posts/bem-vindo/index.qmd": {
+    "index.html": "1082915c"
+  },
+  "posts/historico-programacao/index.qmd": {
+    "index.html": "8f050649"
+  },
+  "posts/pqprogramar/index.qmd": {
+    "index.html": "b2611843"
   }
 }

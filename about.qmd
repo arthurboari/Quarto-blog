@@ -12,4 +12,6 @@ about:
       href: https://github.com/arthurboari
 ---
 
-About this blog
+Arthur Boari é mestre em Ciências pela Universidade Federal de Lavras (UFLA). Na área de concentração Saneamento Ambiental, sua pesquisa investigou tendências nas concentrações de poluentes do ar (material particulado -- MP~2,5~ e MP~10~ -- e ozônio -- O~3~) nas quatro capitais da região Sudeste: Belo Horizonte, MG; Rio de Janeiro, RJ; São Paulo, SP; e Vitória, ES.
+
+Visite o seu Currículo Lattes: <http://lattes.cnpq.br/7113151378838886>.
