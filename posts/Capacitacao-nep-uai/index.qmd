@@ -12,7 +12,7 @@ bibliography: references.bib
 
 Olá, espero que esteja bem.
 
-![Amostra do documento gerado na capacitação](ezgif.com-crop.mp4){fig-align="center"}
+![Amostra do documento gerado na capacitação](gif.mp4){fig-align="center"}
 
 No dia 17/06/2023 conduzi uma capacitação em [Quarto](https://quarto.org/) para o [Núcleo de Estudos em Poluição Urbana e Agroindustrial (NEP UAI)](https://sites.google.com/ufla.br/nepuai).
 
