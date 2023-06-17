@@ -1,0 +1,33 @@
+---
+title: "Capacitação Quarto (NEP UAI)"
+author: "Arthur Boari"
+date: "2023-06-17"
+date-modified: last-modified
+language: 
+  title-block-author-single: "Autoria"
+categories: [Experiência, Programação em R, Quarto, Capacitação]
+image: "image2.jpg"
+bibliography: references.bib
+---
+
+Olá, espero que esteja bem.
+
+![Amostra do documento gerado na capacitação](ezgif.com-crop.mp4){fig-align="center"}
+
+No dia 17/06/2023 conduzi uma capacitação em [Quarto](https://quarto.org/) para o [Núcleo de Estudos em Poluição Urbana e Agroindustrial (NEP UAI)](https://sites.google.com/ufla.br/nepuai).
+
+**Mas o que é o Quarto?**
+
+É um software que permite, que em qualquer linguagem de programação, a criação de documentos (.docx, html, .pdf, dentre outros) a partir da combinação de texto, código e seu output [@_quarto; @quarto].
+
+**Isso parece um pouco com o Rmarkdown...**
+
+E é! Só que melhor, pois combina a funcionalidade de *R Markdown, bookdown, distill, xaringan*, etc em um único sistema .
+
+Onde posso procurar mais informações sobre Quarto?
+
+Você pode acessar os meus arquivos da capacitação aqui. Além deles, separei alguns links interessantes para você:
+
+------------------------------------------------------------------------
+
+Créditos a imagem do post: Marcelo Vieira-Filho.

@@ -1,0 +1,14 @@
+{
+  "hash": "a1191e659a53659af56656c18a147f82",
+  "result": {
+    "markdown": "---\ntitle: \"Capacitação Quarto (NEP UAI)\"\nauthor: \"Arthur Boari\"\ndate: \"2023-06-17\"\ndate-modified: last-modified\nlanguage: \n  title-block-author-single: \"Autoria\"\ncategories: [Experiência, Programação em R, Quarto, Capacitação]\nimage: \"image2.jpg\"\nbibliography: references.bib\n---\n\n\nOlá, espero que esteja bem.\n\n![Amostra do documento gerado na capacitação](Vídeo do WhatsApp de 2023-06-17 à(s) 12.57.33.mp4){fig-align=\"center\"; fig-width=5%}\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(path = \"Vídeo do WhatsApp de 2023-06-17 à(s) 12.57.33.mp4\",auto_pdf = FALSE)\n```\n\n::: {.cell-output-display}\n![](Vídeo do WhatsApp de 2023-06-17 à(s) 12.57.33.mp4)\n:::\n:::\n\n\n\nNo dia 17/06/2023 conduzi uma capacitação em [Quarto](https://quarto.org/) para o [Núcleo de Estudos em Poluição Urbana e Agroindustrial (NEP UAI)](https://sites.google.com/ufla.br/nepuai).\n\n**Mas o que é o Quarto?**\n\nÉ um software que permite, que em qualquer linguagem de programação, a criação de documentos (.docx, html, .pdf, dentre outros) a partir da combinação de texto, código e seu output [@_quarto; @quarto].\n\n**Isso parece um pouco com o Rmarkdown...**\n\nE é! Só que melhor, pois combina a funcionalidade de *R Markdown, bookdown, distill, xaringan*, etc em um único sistema .\n\nOnde posso procurar mais informações sobre Quarto?\n\nVocê pode acessar os meus arquivos da capacitação aqui. Além deles, separei alguns links interessantes para você:\n\n------------------------------------------------------------------------\n\nCréditos a imagem do post: Marcelo Vieira-Filho.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
