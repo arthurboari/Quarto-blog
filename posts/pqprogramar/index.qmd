@@ -7,10 +7,29 @@ language:
   title-block-author-single: "Autoria"
 categories: [Experiência, Programação em R]
 image: "Linguagem_R-768x410.jpg"
-draft: yes
 ---
 
-gdsufsh
+7 motivos para aprender a programar em R:
+
+1.  **Análise de dados**: R é uma das linguagens de programação [mais populares](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) para análise de dados (principalmente entre estatísticos). Ele oferece uma variedade de pacotes e funções que permitem manipular, visualizar e modelar dados de forma eficiente.
+
+2.  **Visualização de dados**: R tem uma grande variedade de bibliotecas gráficas que permitem criar visualizações de dados atraentes e informativas.
+
+    -   [ggplot2](https://ggplot2.tidyverse.org/);
+
+    -   [lattice](https://rpubs.com/LamiaaZrara/896944);
+
+    -   [plotly](https://plotly.com/r/), entre outros.
+
+3.  **Comunidade ativa**: R tem uma comunidade ativa e vibrante que compartilha conhecimento e recursos. Existem muitos [fóruns](https://stackoverflow.com/), blogs e grupos dedicados a ajudar os usuários a aprender e resolver problemas.
+
+4.  **Flexibilidade**: R é uma linguagem de programação flexível que pode ser usada para uma variedade de tarefas, desde análise de dados até desenvolvimento de aplicativos da web.
+
+5.  **Código aberto**: R é uma linguagem de programação de código aberto, o que significa que é gratuito e pode ser modificado e personalizado para atender às necessidades específicas do usuário.
+
+6.  **Fácil aprendizado**: R é relativamente fácil de aprender, especialmente para aqueles que já têm alguma experiência em programação. Existem muitos recursos online disponíveis para ajudar os usuários a começar.
+
+7.  **Integração com outras ferramentas**: R pode ser integrado com outras ferramentas populares, como Excel, SQL e Python, o que permite uma maior flexibilidade e eficiência na análise de dados.
 
 ------------------------------------------------------------------------
 
