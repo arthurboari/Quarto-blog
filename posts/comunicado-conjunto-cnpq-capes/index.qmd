@@ -8,7 +8,6 @@ language:
   title-block-author-single: "Autoria"
 categories: [Notícias]
 image: "CAPES-CNPq.jpg"
-draft: yes
 ---
 
 Olá, espero que esteja bem.
