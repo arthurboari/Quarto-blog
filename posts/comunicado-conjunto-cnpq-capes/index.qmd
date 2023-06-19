@@ -1,0 +1,30 @@
+---
+title: "Comunicado Conjunto"
+subtitle: "CAPES e CNPq"
+author: "Arthur Boari"
+date: "2023-06-19"
+date-modified: last-modified
+language: 
+  title-block-author-single: "Autoria"
+categories: [Notícias]
+image: "CAPES-CNPq.jpg"
+draft: yes
+---
+
+Olá, espero que esteja bem.
+
+Nesse post irei discorrer um pouco sobre o Comunicado Conjunto entre CAPES e CNPq, publicado no dia 16/06/2023 (você pode ler [aqui](230616-Comunicado%20Conjunto_CAPES-CNPQ_OpenAccess_formated_v2.pdf)).
+
+<span style="background-color: #FFFF00">TL;DR: A CAPES (Comissão de Área Engenharias IV) e o CNPq (Comitê de Assessoramento de Engenharia Elétrica e Biomédica) expressão preocupação mediante ao crescente número de publicações em revistas predatórias (periódicos de qualidade duvidosa e práticas editoriais questionáveis) e  como tais publicações podem estar sendo usadas para alavancar indicadores de PPGs, inflação de currículos dos pesquisadores.</span>
+
+## Vídeos interessantes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MVpJm6nVzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73goVcQw0QI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNuF_NxNmjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+------------------------------------------------------------------------
+
+Créditos a imagem do post: [USP](https://sites.usp.br/ppg-pst/?attachment_id=4092&lang=es).

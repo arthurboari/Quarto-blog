@@ -44,9 +44,6 @@ Você pode acessar os meus arquivos da capacitação aqui. Além deles, separei 
 
 </iframe>
 
-Veja abaixo uma amostra do documento gerado na capacitação:
-
-![Amostra do documento gerado na capacitação](gif.mp4){fig-align="center"}
 
 ------------------------------------------------------------------------
 

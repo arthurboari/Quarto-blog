@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Blog do Arthur Boari"
+  body-footer: Blog feito em [Quarto](https://quarto.org/), por Arthur Boari.
   navbar:
     right:
       - about.qmd
@@ -17,9 +18,10 @@ website:
         href: https://www.linkedin.com/in/arthurboari/
 format:
   html:
+    highlight-style: a11y
     theme:
-      dark: minty
-      light: journal
+      dark: journal
+      light: morph
     css: styles.css
 lang: pt-br
 editor: visual
