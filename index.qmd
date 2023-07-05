@@ -1,5 +1,4 @@
 ---
-title: "Seja bem-vindo"
 listing:
   contents: posts
   sort: "date desc"

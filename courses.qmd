@@ -1,5 +1,5 @@
 ---
-title: "Cursos"
+title: "CURSOS"
 about:
   template: jolla
   links:

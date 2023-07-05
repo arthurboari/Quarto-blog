@@ -3,11 +3,11 @@ project:
   output-dir: "docs/"
 
 website:
-  title: "Blog do Arthur Boari"
+  title: "BLOG DO ARTHUR BOARI"
   body-footer: Blog feito em [Quarto](https://quarto.org/), por Arthur Boari.
   navbar:
     left:
-      - text: "Cursos"
+      - text: "CURSOS"
         href: courses.html
     right:
       - about.qmd
