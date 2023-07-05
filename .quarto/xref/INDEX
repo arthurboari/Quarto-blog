@@ -25,5 +25,11 @@
   },
   "posts/comunicado-conjunto-cnpq-capes/index.qmd": {
     "index.html": "a0221afe"
+  },
+  "posts/pqprogramar2/index.qmd": {
+    "index.html": "163fab74"
+  },
+  "courses.qmd": {
+    "courses.html": "8bda1b1c"
   }
 }

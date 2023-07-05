@@ -1,0 +1,23 @@
+---
+title: "Por que aprender a programar? [Parte 2]"
+author: "Arthur Boari"
+date: "2023-06-12"
+date-modified: last-modified
+language: 
+  title-block-author-single: "Autoria"
+categories: [Experiência, Programação em R]
+image: "Linguagem_R-768x410.jpg"
+---
+
+Olá, como é bom ter você aqui novamente. Espero que você esteja bem!
+
+Dando continuidade ao último post, "Por que aprender a programar?", hoje irei te contar um pouco da minha experiência e como saber programar em R me ajudou.
+
+1)  Trabalho de Conclusão de Curso (TCC)
+
+No meu TCC precisei trabalhar com datasets de observações diárias de algumas variáveis meteorológicas, e.g. precipitação; temperaturas mínima, máxima e média compensada; insolação; umidade relativa; e velocidade média do vento.
+
+
+Em algumas estações o dataset chegava a 40 anos de dados, o que são umas 14.600 linhas e 8 colunas de dados (data-hora; precipitação; temperaturas mínima, máxima e média compensada; insolação; umidade relativa; e velocidade média do vento). O manuseio de tamanho banco de dados fica inviável em processadores de planilhas, pois tais aplicativos podem apresentar vários problemas. E o processamento de médias simples, mensais e anuais são facilmente realizadas em R, com o resultado obtido em frações de, ou em, segundos.
+
+Créditos a imagem do post: [itforum](https://itforum.com.br/noticias/pros-e-contras-da-linguagem-de-programacao-r/) (acesso em 10/06/2023).

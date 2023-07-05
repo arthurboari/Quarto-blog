@@ -1,0 +1,14 @@
+{
+  "hash": "07e491760566aee60466573ca2b93fcf",
+  "result": {
+    "markdown": "---\ntitle: \"Por que aprender a programar? [Parte 2]\"\nauthor: \"Arthur Boari\"\ndate: \"2023-06-12\"\ndate-modified: last-modified\nlanguage: \n  title-block-author-single: \"Autoria\"\ncategories: [Experiência, Programação em R]\nimage: \"Linguagem_R-768x410.jpg\"\n---\n\n\nOlá, como é bom ter você aqui novamente. Espero que você esteja bem!\n\nDando continuidade ao último post, \"Por que aprender a programar?\", hoje irei te contar um pouco da minha experiência e como saber programar em R me ajudou.\n\n1)  Trabalho de Conclusão de Curso (TCC)\n\nNo meu TCC precisei trabalhar com datasets de observações diárias de algumas variáveis meteorológicas, e.g. precipitação; temperaturas mínima, máxima e média compensada; insolação; umidade relativa; e velocidade média do vento.\n\n::: {.cell}\n\n:::\n\n\nEm algumas estações o dataset chegava a 40 anos de dados, o que são umas 1.46\\times 10^{4} linhas ()\n\nCréditos a imagem do post: [itforum](https://itforum.com.br/noticias/pros-e-contras-da-linguagem-de-programacao-r/) (acesso em 10/06/2023).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

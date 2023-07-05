@@ -6,6 +6,9 @@ website:
   title: "Blog do Arthur Boari"
   body-footer: Blog feito em [Quarto](https://quarto.org/), por Arthur Boari.
   navbar:
+    left:
+      - text: "Cursos"
+        href: courses.html
     right:
       - about.qmd
       - icon: github
