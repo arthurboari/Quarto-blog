@@ -1,14 +1,5 @@
 ---
 title: "CURSOS"
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/arthurboari/
-    - icon: github
-      text: Github
-      href: https://github.com/arthurboari
 ---
 
 Seção em construção

@@ -22,9 +22,7 @@ website:
 format:
   html:
     highlight-style: a11y
-    theme:
-      dark: journal
-      light: morph
+    theme: journal
     css: styles.css
 lang: pt-br
 editor: visual
