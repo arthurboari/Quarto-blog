@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "BLOG DO ARTHUR BOARI",
     "section": "",
-    "text": "Comunicado Conjunto\n\n\nCAPES e CNPq\n\n\n\n\nNotícias\n\n\n\n\n\n\n\n\n\n\n\n19 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nCapacitação Quarto (NEP UAI)\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\nQuarto\n\n\nCapacitação\n\n\n\n\n\n\n\n\n\n\n\n17 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nPor que aprender a programar?\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n12 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nPor que aprender a programar? [Parte 2]\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n12 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nProgramação & Eu\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n11 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nOlá, Seja Bem-vindo(a)\n\n\n\n\n\n\n\nNotícias\n\n\n\n\n\n\n\n\n\n\n\n10 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\nNenhum item correspondente\n\nBlog feito em Quarto, por Arthur Boari."
+    "text": "Capacitação Quarto (NEP UAI)\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\nQuarto\n\n\nCapacitação\n\n\n\n\n\n\n\n\n\n\n\n17 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nPor que aprender a programar?\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n12 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nPor que aprender a programar? [Parte 2]\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n12 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nProgramação & Eu\n\n\n\n\n\n\n\nExperiência\n\n\nProgramação em R\n\n\n\n\n\n\n\n\n\n\n\n11 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\n  \n\n\n\n\nOlá, Seja Bem-vindo(a)\n\n\n\n\n\n\n\nNotícias\n\n\n\n\n\n\n\n\n\n\n\n10 de jun. de 2023\n\n\nArthur Boari\n\n\n\n\n\n\nNenhum item correspondente\n\nBlog feito em Quarto, por Arthur Boari."
   },
   {
     "objectID": "posts/bem-vindo/index.html",
@@ -33,20 +33,6 @@
     "title": "Capacitação Quarto (NEP UAI)",
     "section": "",
     "text": "Olá, espero que esteja bem.\nNo dia 17/06/2023 conduzi uma capacitação em Quarto para o Núcleo de Estudos em Poluição Urbana e Agroindustrial (NEP UAI).\nMas o que é o Quarto?\nÉ um software que permite, que em qualquer linguagem de programação, a criação de documentos (.docx, html, .pdf, dentre outros) a partir da combinação de texto, código e seu output (POSIT 2023; Allaire 2022).\nIsso parece um pouco com o Rmarkdown…\nE é! Só que melhor, pois combina a funcionalidade de R Markdown, bookdown, distill, xaringan, etc em um único sistema .\nOnde posso procurar mais informações sobre Quarto?\nVocê pode acessar os meus arquivos da capacitação aqui. Além deles, separei alguns links interessantes para você:\n\nA documentação oficial do Quarto\nA Quarto tip a day (Mine Çetinkaya-Rundel, estatística e co-criadora do Quarto)\nCreating a blog with Quarto in 10 steps (Beatriz Milz, Curso R / R-Ladies São Paulo)\n\n\n\n\n\n\n\n\nCréditos a imagem e vídeo do post: Marcelo Vieira-Filho.\n\n\n\n\nBlog feito em Quarto, por Arthur Boari.Referências\n\nAllaire, JJ. 2022. “quarto: R Interface to ’Quarto’ Markdown Publishing System”. https://CRAN.R-project.org/package=quarto.\n\n\nPOSIT. 2023. “Quarto - FAQ for R Markdown Users”. Quarto; POSIT. https://quarto.org/docs/faq/rmarkdown.html#quarto-sounds-similar-to-r-markdown.-what-is-the-difference-and-why-create-a-new-project."
-  },
-  {
-    "objectID": "posts/comunicado-conjunto-cnpq-capes/index.html",
-    "href": "posts/comunicado-conjunto-cnpq-capes/index.html",
-    "title": "Comunicado Conjunto",
-    "section": "",
-    "text": "Olá, espero que esteja bem.\nNesse post irei discorrer um pouco sobre o Comunicado Conjunto entre CAPES e CNPq, publicado no dia 16/06/2023 (você pode ler aqui).\nTL;DR: A CAPES (Comissão de Área Engenharias IV) e o CNPq (Comitê de Assessoramento de Engenharia Elétrica e Biomédica) expressão preocupação mediante ao crescente número de publicações em revistas predatórias (periódicos de qualidade duvidosa e práticas editoriais questionáveis) e como tais publicações podem estar sendo usadas para alavancar indicadores de PPGs, inflação de currículos dos pesquisadores.\nBlog feito em Quarto, por Arthur Boari."
-  },
-  {
-    "objectID": "posts/comunicado-conjunto-cnpq-capes/index.html#vídeos-interessantes",
-    "href": "posts/comunicado-conjunto-cnpq-capes/index.html#vídeos-interessantes",
-    "title": "Comunicado Conjunto",
-    "section": "Vídeos interessantes",
-    "text": "Vídeos interessantes\n\n\n\n\n\n\n\nCréditos a imagem do post: USP."
   },
   {
     "objectID": "posts/historico-programacao/index.html",
