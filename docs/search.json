@@ -25,7 +25,7 @@
     "href": "posts/Apresentacao-cimenteira/index.html",
     "title": "Apresentação sobre poluição do ar em evento de cimenteira",
     "section": "",
-    "text": "Olá, espero que esteja bem.\nNo dia 10/11/2023 tive a honra de ministrar uma palestra a equipe de produção da cimenteira Intercement (Ijaci/MG) como parte do XXXX.\nA apresentação, que você pode conferir aqui), aborda um pouco sobre a poluição do ar, conceitos de material particulado, legislação ambiental pertinente a fontes fixas e indústrias cimenteiras, e ECPs (equipamentos de controle de poluição), como filtro de mangas e precipitador eletrostático.\n\n\n\nBlog feito em Quarto, por Arthur Boari."
+    "text": "Olá, espero que esteja bem.\nNo dia 10/11/2023 tive a honra de ministrar uma palestra a equipe de produção da cimenteira Intercement (Ijaci/MG) como parte do XXXX.\nA apresentação, que você pode conferir aqui), aborda um pouco sobre a poluição do ar, conceitos de material particulado, legislação ambiental pertinente a fontes fixas e indústrias cimenteiras, e ECPs (equipamentos de controle de poluição), como filtro de mangas e precipitador eletrostático.\nAqui está a relação das legislações abordadas:\n💡 Algumas fontes para consultas:\nBlog feito em Quarto, por Arthur Boari."
   },
   {
     "objectID": "courses.html",
@@ -61,5 +61,12 @@
     "title": "Por que aprender a programar?",
     "section": "",
     "text": "7 motivos para aprender a programar em R:\n\nAnálise de dados: R é uma das linguagens de programação mais populares para análise de dados (principalmente entre estatísticos). Ele oferece uma variedade de pacotes e funções que permitem manipular, visualizar e modelar dados de forma eficiente.\nVisualização de dados: R tem uma grande variedade de bibliotecas gráficas que permitem criar visualizações de dados atraentes e informativas.\n\nggplot2;\nlattice;\nplotly, entre outros.\n\nComunidade ativa: R tem uma comunidade ativa e vibrante que compartilha conhecimento e recursos. Existem muitos fóruns, blogs e grupos dedicados a ajudar os usuários a aprender e resolver problemas.\nFlexibilidade: R é uma linguagem de programação flexível que pode ser usada para uma variedade de tarefas, desde análise de dados até desenvolvimento de aplicativos da web.\nCódigo aberto: R é uma linguagem de programação de código aberto, o que significa que é gratuito e pode ser modificado e personalizado para atender às necessidades específicas do usuário.\nFácil aprendizado: R é relativamente fácil de aprender, especialmente para aqueles que já têm alguma experiência em programação. Existem muitos recursos online disponíveis para ajudar os usuários a começar.\nIntegração com outras ferramentas: R pode ser integrado com outras ferramentas populares, como Excel, SQL e Python, o que permite uma maior flexibilidade e eficiência na análise de dados.\n\n\nCréditos a imagem do post: itforum (acesso em 10/06/2023).\n\n\n\nBlog feito em Quarto, por Arthur Boari."
+  },
+  {
+    "objectID": "posts/Apresentacao-cimenteira/index.html#footnotes",
+    "href": "posts/Apresentacao-cimenteira/index.html#footnotes",
+    "title": "Apresentação sobre poluição do ar em evento de cimenteira",
+    "section": "Notas de rodapé",
+    "text": "Notas de rodapé\n\n\n“componente básico do cimento, constituído principalmente de silicato tricálcico, silicato dicálcico, aluminato tricálcico e ferroaluminato tetracálcico” (CONAMA nº 499/2020, art. 4º, inciso I)↩︎"
   }
 ]

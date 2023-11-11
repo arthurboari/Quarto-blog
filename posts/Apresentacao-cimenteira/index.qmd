@@ -13,3 +13,21 @@ Olá, espero que esteja bem.
 No dia 10/11/2023 tive a honra de ministrar uma palestra a equipe de produção da cimenteira Intercement (Ijaci/MG) como parte do XXXX.
 
 A apresentação, que você pode conferir [aqui](https://arthurboari.github.io/blog/posts/Apresentacao-cimenteira/Apresentação_cimenteira.pdf)), aborda um pouco sobre a poluição do ar, conceitos de material particulado, legislação ambiental pertinente a fontes fixas e indústrias cimenteiras, e ECPs (equipamentos de controle de poluição), como filtro de mangas e precipitador eletrostático.
+
+Aqui está a relação das legislações abordadas:
+
+1.  [Resolução CONAMA nº 05/1989](https://www.suape.pe.gov.br/images/publicacoes/resolucao/Resolu%C3%83%C2%A7%C3%83%C2%A3o_CONAMA_005.1989.pdf): Dispõe sobre o Programa Nacional de Controle da Poluição do Ar -- PRONAR.
+
+2.  [Resolução CONAMA nº 436/2011](https://www.novaconcursos.com.br/blog/pdf/resolucao-436-2011.pdf): Estabelece os limites máximos de emissão de poluentes atmosféricos para fontes fixas instaladas ou com pedido de licença de instalação anteriores a 02 de janeiro de 2007.
+
+3.  [Deliberação Normativa Copam nº 187/2013](https://www.legisweb.com.br/legislacao/?id=258656): Estabelece condições e limites máximos de emissão de poluentes atmosféricos para fontes fixas e dá outras providências.
+
+4.  [Resolução CONAMA nº 499/2020](https://www.legisweb.com.br/legislacao/?id=403295): Dispõe sobre o licenciamento da atividade de coprocessamento de resíduos em fornos rotativos de produção de clínquer[^1].
+
+[^1]: "componente básico do cimento, constituído principalmente de silicato tricálcico, silicato dicálcico, aluminato tricálcico e ferroaluminato tetracálcico" (CONAMA nº 499/2020, art. 4º, inciso I)
+
+💡 **Algumas fontes para consultas:**
+
+1.  Notas de aula do Prof. Dr. Neyval Costa Reis Junior (UFES): Tópico [Equipamentos de Controle de Poluição do Ar](http://www.inf.ufes.br/%7Eneyval/Monitoramento_Qualidade_Ar/Equipamentos_de_controle_de_emissao.pdf) (disciplina Monitoramento da Qualidade do Ar, mestrado).
+
+2.  [Apêndice](https://teses.usp.br/teses/disponiveis/18/18135/tde-14022005-132933/publico/mestDipapendiceI_.pdf) da [dissertação de mestrado](https://teses.usp.br/teses/disponiveis/18/18135/tde-14022005-132933/pt-br.php) em Engenharia Mecânica de M.Sc. Tatiana Maciulis Dip (USP). "*Otimização de condições operacionais de processo visando a minimização da emissão de material particulado na incineração industrial de resíduos perigosos."*
