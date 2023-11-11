@@ -31,3 +31,15 @@ Aqui está a relação das legislações abordadas:
 1.  Notas de aula do Prof. Dr. Neyval Costa Reis Junior (UFES): Tópico [Equipamentos de Controle de Poluição do Ar](http://www.inf.ufes.br/%7Eneyval/Monitoramento_Qualidade_Ar/Equipamentos_de_controle_de_emissao.pdf) (disciplina Monitoramento da Qualidade do Ar, mestrado).
 
 2.  [Apêndice](https://teses.usp.br/teses/disponiveis/18/18135/tde-14022005-132933/publico/mestDipapendiceI_.pdf) da [dissertação de mestrado](https://teses.usp.br/teses/disponiveis/18/18135/tde-14022005-132933/pt-br.php) em Engenharia Mecânica de M.Sc. Tatiana Maciulis Dip (USP). "*Otimização de condições operacionais de processo visando a minimização da emissão de material particulado na incineração industrial de resíduos perigosos."*
+
+📺 **Algumas sugestões de vídeos:**
+
+1.  [Aula Poluição do Ar](https://www.youtube.com/watch?v=9QQaZGka58s), canal Mais Ciências - Profa Rafaela Lima;
+
+2.  [Inversão Térmica - Manual do Mundo](https://www.youtube.com/watch?v=SYKeSb2iAQQ), canal FTD Educação;
+
+3.  [Filtro Eletrostático](https://www.youtube.com/watch?v=WL68dNSU8oo), canal Oficiencia;
+
+4.  [Entendendo o Filtro de Manga e suas principais partes](https://www.youtube.com/watch?v=H71jYlU_Cf8), canal TECNI-AR Parker Store Brasil;
+
+5.  [Processo de Fabricação de Cimento](https://www.youtube.com/watch?v=MvJ4TxS2icg), canal InterCement.
