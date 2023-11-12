@@ -1,5 +1,5 @@
 ---
-title: "Apresentação sobre poluição do ar em evento de cimenteira"
+title: "Participação no SIPATMA 2023 da InterCement"
 author: "Arthur Boari"
 date: "2023-11-10"
 date-modified: last-modified
