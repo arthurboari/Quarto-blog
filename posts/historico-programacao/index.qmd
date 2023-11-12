@@ -7,6 +7,7 @@ language:
   title-block-author-single: "Autoria"
 categories: [Experiência, Programação em R]
 image: "Linguagem_R-768x410.jpg"
+draft: yes
 ---
 
 Olá, é bom ter você por aqui! Espero que este post te encontre bem 😉

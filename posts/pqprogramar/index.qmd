@@ -7,6 +7,7 @@ language:
   title-block-author-single: "Autoria"
 categories: [Experiência, Programação em R]
 image: "Linguagem_R-768x410.jpg"
+draft: yes
 ---
 
 7 motivos para aprender a programar em R:

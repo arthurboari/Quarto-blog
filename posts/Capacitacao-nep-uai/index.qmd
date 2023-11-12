@@ -6,13 +6,12 @@ date-modified: last-modified
 language: 
   title-block-author-single: "Autoria"
 categories: [Experiência, Programação em R, Quarto, Capacitação]
-image: "image2.jpg"
 bibliography: references.bib
 ---
 
-Olá, espero que esteja bem.
-
 No dia 17/06/2023 conduzi uma capacitação em [Quarto](https://quarto.org/) para o [Núcleo de Estudos em Poluição Urbana e Agroindustrial (NEP UAI)](https://sites.google.com/ufla.br/nepuai).
+
+![](image2.jpg){fig-align="center"}
 
 **Mas o que é o Quarto?**
 
@@ -43,7 +42,6 @@ Você pode acessar os meus arquivos da capacitação aqui. Além deles, separei 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YMGZQmMK2C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
-
 
 ------------------------------------------------------------------------
 

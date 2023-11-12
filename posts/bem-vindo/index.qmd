@@ -6,6 +6,7 @@ date-modified: last-modified
 language: 
   title-block-author-single: "Autoria"
 categories: [Notícias]
+draft: yes
 ---
 
 Olá, seja bem-vindo ao meu blog em Quarto! É com grande entusiasmo que começo mais uma empreitada unindo ciência, programação e compartilhamento de conhecimento e experiências.

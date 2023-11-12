@@ -8,8 +8,6 @@ language:
 categories: [Experiência, Capacitação]
 ---
 
-Olá, espero que esteja bem.
-
 No dia 10/11/2023 tive a honra de ministrar uma palestra a equipe de produção da cimenteira Intercement (Ijaci/MG) como parte do SIPATMA 2023 (Semana Integrada de Prevenção de Acidentes de Trabalho e Meio Ambiente).
 
 A apresentação, que você pode conferir [aqui](Apresentação_cimenteira.pdf)), aborda um pouco sobre a poluição do ar, conceitos de material particulado, legislação ambiental pertinente a fontes fixas e indústrias cimenteiras, e ECPs (equipamentos de controle de poluição), como filtro de mangas e precipitador eletrostático.
